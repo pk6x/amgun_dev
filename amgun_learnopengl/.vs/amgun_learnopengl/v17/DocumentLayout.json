@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\amgun_learnopengl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE41FC1-8487-4539-85C4-FA6DD1744037}|amgun_learnopengl\\amgun_learnopengl.vcxproj|D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AE41FC1-8487-4539-85C4-FA6DD1744037}|amgun_learnopengl\\amgun_learnopengl.vcxproj|solutionrelative:amgun_learnopengl\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE41FC1-8487-4539-85C4-FA6DD1744037}|amgun_learnopengl\\amgun_learnopengl.vcxproj|D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\glsl_vert.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AE41FC1-8487-4539-85C4-FA6DD1744037}|amgun_learnopengl\\amgun_learnopengl.vcxproj|solutionrelative:amgun_learnopengl\\glsl_vert.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE41FC1-8487-4539-85C4-FA6DD1744037}|amgun_learnopengl\\amgun_learnopengl.vcxproj|D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\glsl_frag.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AE41FC1-8487-4539-85C4-FA6DD1744037}|amgun_learnopengl\\amgun_learnopengl.vcxproj|solutionrelative:amgun_learnopengl\\glsl_frag.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glsl_vert.vert",
+              "DocumentMoniker": "D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\glsl_vert.vert",
+              "RelativeDocumentMoniker": "amgun_learnopengl\\glsl_vert.vert",
+              "ToolTip": "D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\glsl_vert.vert",
+              "RelativeToolTip": "amgun_learnopengl\\glsl_vert.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T21:13:49.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "glsl_frag.frag",
+              "DocumentMoniker": "D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\glsl_frag.frag",
+              "RelativeDocumentMoniker": "amgun_learnopengl\\glsl_frag.frag",
+              "ToolTip": "D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\glsl_frag.frag",
+              "RelativeToolTip": "amgun_learnopengl\\glsl_frag.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-18T20:09:47.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\Main.cpp",
+              "RelativeDocumentMoniker": "amgun_learnopengl\\Main.cpp",
+              "ToolTip": "D:\\dev\\amgun_learnopengl\\amgun_learnopengl\\Main.cpp",
+              "RelativeToolTip": "amgun_learnopengl\\Main.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T20:34:31.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
